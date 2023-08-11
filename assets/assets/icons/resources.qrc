@@ -1,0 +1,78 @@
+<RCC>
+  <qresource prefix="redpack">
+    <file>rd-add.png</file>
+    <file>rd-file-excel.png</file>
+    <file>rd-printer-scan.png</file>
+    <file>rd-clean.png</file>
+    <file>rd-close.png</file>
+    <file>rd-storage.png</file>
+    <file>rd-money.png</file>
+    <file>rd-search.png</file>
+  </qresource>
+  <qresource prefix="blupack">
+    <file>bl-directions.png</file>
+    <file>bl-id.png</file>
+    <file>bl-gift.png</file>
+    <file>bl-danger.png</file>
+    <file>bl-money-buy.png</file>
+    <file>bl-money-sell.png</file>
+    <file>bl-description.png</file>
+    <file>bl-barcode.png</file>
+    <file>bl-scale.png</file>
+    <file>bl-supplier.png</file>
+    <file>bl-folder.png</file>
+    <file>bl-product.png</file>
+    <file>bl-id-secure.png</file>
+    <file>bl-ruler.png</file>
+    <file>bl-tag.png</file>
+    <file>bl-search.png</file>
+    <file>bl-setting.png</file>
+    <file>bl-data-analysis.png</file>
+    <file>bl-shop-article.png</file>
+    <file>bl-inventory-store.png</file>
+    <file>bl-shopping-cest.png</file>
+    <file>bl-clients.png</file>
+    <file>bl-shopping-cart.png</file>
+  </qresource>
+  <qresource prefix="Logo_icon">
+    <file>icon_nosecq.png</file>
+    <file>lock2_32x32.png</file>
+    <file>lock_32x32.png</file>
+    <file>logo_tienda.png</file>
+    <file>mail_32x32.png</file>
+    <file>rocket_48x48.png</file>
+    <file>user_32x32.png</file>
+    <file>logo_tienda.png</file>
+  </qresource>
+  <qresource prefix="Main_icons">
+    <file>mayoreo.png</file>
+    <file>limpiar.png</file>
+    <file>squared-id.png</file>
+    <file>cargo-truck.png</file>
+    <file>icon_nosecq.png</file>
+    <file>search-icon-511x512-5st1fbam.png</file>
+    <file>configuration-icon-512x492-k5asrbr2.png</file>
+    <file>managementtools-amazonec2systemsmanager-inventory-icon-439x512-r97p9d32.png</file>
+    <file>cash-register-buy-purchases-shop-shops.256x212.png</file>
+    <file>agents-and-clients.256x160.png</file>
+    <file>signo-de-exclamacion.png</file>
+    <file>cancelar.png</file>
+    <file>circle.png</file>
+    <file>comprobado.png</file>
+    <file>carnet-de-identidad (1).png</file>
+    <file>carnet-de-identidad.png</file>
+    <file>tarjeta-de-identificacion.png</file>
+    <file>calendario.png</file>
+    <file>reloj.png</file>
+    <file>usuario.png</file>
+    <file>carrito-de-supermercado.png</file>
+    <file>descuentos.png</file>
+    <file>orden-procesada.png</file>
+    <file>calculadora.png</file>
+    <file>cantidad.png</file>
+    <file>costo.png</file>
+    <file>total.png</file>
+    <file>articulos.png</file>
+    <file>buscar.png</file>
+  </qresource>
+</RCC>
